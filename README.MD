@@ -5,7 +5,6 @@
 <a href="https://weather.jetml.com">
     <img src="images/Ashland,%20Oregon-2023-01-01.png" width="400">
     <img src="images/Ashland,%20Oregon-2023-01-02.png" width="400">
-    <img src="images/Ashland,%20Oregon-2023-01-03.png" width="400">
 </a>
 
 This was a project to demonstrate using Stable Diffusion 2 to generate weather forecasts for Oregon destinations using the JetML machine learning platform. Learn more on https://www.jetml.com. 
